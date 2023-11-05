@@ -1,4 +1,4 @@
-I use vim and tmux for everything
+I use <del>vim</del> [edit](https://github.com/btnguyenPersonal/edit) and tmux for everything
 
 ### Quick computer setup
 
